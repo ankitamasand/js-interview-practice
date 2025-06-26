@@ -3,7 +3,10 @@
 ## General List
 - Analytics SDK
 - AsyncEventEmitter
-- Fetch with Retry and Timeout 
+- Fetch with Retry and Timeout
+
+## Components
+- DragDropList
 
 ## Polyfills
 ### Function Prototype Methods
