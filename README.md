@@ -1,4 +1,4 @@
-# js-interview-practice
+# JavaScript Interview Questions
 
 ## General List
 - Analytics SDK
