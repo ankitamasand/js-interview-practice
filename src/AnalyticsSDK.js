@@ -4,7 +4,7 @@ track()
 updateConfig() methods
 - flushqueue after init to make sure events that are called before initialization are tracked
 - support retries 
-- simulate fetch with a promise/httpbin endpoint with 30% chance of failure
+- simulate fetch with a promise/httpbin endpoint with a 50% chance of failure
 - [PENDING] supports keepalive option in fetch/navigator.sendBaecon (64KB limit) on unload event to make sure we don't lose any event when the user leaves the page
 - [PENDING] batch multiple events so that we don't call the server for every single event
 
