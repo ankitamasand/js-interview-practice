@@ -4,6 +4,7 @@
 - Analytics SDK
 - AsyncEventEmitter
 - Fetch with Retry and Timeout
+- Memoize in flight fetch calls
 
 ## Components
 - DragDropList
